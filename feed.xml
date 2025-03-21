@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>trackswiftly</title>
+    <link href="https://obaidoncall.github.io/trackswiftly/feed.xml" rel="self" />
+    <link href="https://obaidoncall.github.io/trackswiftly" />
+    <updated>2025-03-21T10:52:10+00:00</updated>
+    <author>
+        <name>Obaid</name>
+    </author>
+    <id>https://obaidoncall.github.io/trackswiftly</id>
+
+    <entry>
+        <title>How TrackSwiflty Make it Esay for you .</title>
+        <author>
+            <name>Obaid</name>
+        </author>
+        <link href="https://obaidoncall.github.io/trackswiftly/how-trackswiflty-make-it-esay-for-you.html"/>
+        <id>https://obaidoncall.github.io/trackswiftly/how-trackswiflty-make-it-esay-for-you.html</id>
+
+        <updated>2025-03-21T10:52:10+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

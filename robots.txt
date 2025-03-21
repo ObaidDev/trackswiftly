@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://obaidoncall.github.io/trackswiftly/sitemap.xml
