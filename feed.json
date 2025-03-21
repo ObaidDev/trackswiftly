@@ -2,17 +2,17 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "trackswiftly",
     "description": "",
-    "home_page_url": "https://obaidoncall.github.io/trackswiftly",
-    "feed_url": "https://obaidoncall.github.io/trackswiftly/feed.json",
+    "home_page_url": "https://trackswiftly.com",
+    "feed_url": "https://trackswiftly.com/feed.json",
     "user_comment": "",
-    "icon": "https://obaidoncall.github.io/trackswiftly/media/website/preview.jpg",
+    "icon": "https://trackswiftly.com/media/website/preview.jpg",
     "author": {
         "name": "Obaid"
     },
     "items": [
         {
-            "id": "https://obaidoncall.github.io/trackswiftly/how-trackswiflty-make-it-esay-for-you.html",
-            "url": "https://obaidoncall.github.io/trackswiftly/how-trackswiflty-make-it-esay-for-you.html",
+            "id": "https://trackswiftly.com/how-trackswiflty-make-it-esay-for-you.html",
+            "url": "https://trackswiftly.com/how-trackswiflty-make-it-esay-for-you.html",
             "title": "How TrackSwiflty Make it Esay for you .",
             "author": {
                 "name": "Obaid"
